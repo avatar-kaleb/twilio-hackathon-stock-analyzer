@@ -1,0 +1,6 @@
+@import '../node_modules/@blueprintjs/core/lib/scss/variables';
+
+.app-content {
+  background: $pt-dark-app-background-color;
+  min-height: 100vh;
+}
